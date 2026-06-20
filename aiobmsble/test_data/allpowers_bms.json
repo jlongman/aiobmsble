@@ -1,7 +1,7 @@
 [
   {
     "advertisement": {
-      "local_name": "AP S1500",
+      "local_name": "AP R600 V2.0",
       "service_uuids": ["0000fff0-0000-1000-8000-00805f9b34fb"],
       "rssi": -55
     },

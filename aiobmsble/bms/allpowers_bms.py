@@ -80,7 +80,7 @@ class BMS(BaseBMS):
     def matcher_dict_list() -> list[MatcherPattern]:
         """Provide BluetoothMatcher definition."""
         return [
-            MatcherPattern(local_name="AP S*", connectable=True),
+            MatcherPattern(local_name="AP *", connectable=True),
             MatcherPattern(local_name="VOLIX*", connectable=True),
         ]
 
